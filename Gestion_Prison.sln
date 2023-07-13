@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couche_accesdonnee", "Couche_accesdonnee\Couche_accesdonnee.csproj", "{8E897186-31CC-4F33-8518-B979C4352D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couche_Metier", "Couche_Metier\Couche_Metier.csproj", "{04060CBD-AAA8-4433-8381-5BAF5304E344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couche_presentations", "Couche_presentations\Couche_presentations.csproj", "{E80D7CE1-17A0-4A7D-8920-85930B7C3E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E897186-31CC-4F33-8518-B979C4352D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E897186-31CC-4F33-8518-B979C4352D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E897186-31CC-4F33-8518-B979C4352D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E897186-31CC-4F33-8518-B979C4352D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04060CBD-AAA8-4433-8381-5BAF5304E344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04060CBD-AAA8-4433-8381-5BAF5304E344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04060CBD-AAA8-4433-8381-5BAF5304E344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04060CBD-AAA8-4433-8381-5BAF5304E344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80D7CE1-17A0-4A7D-8920-85930B7C3E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80D7CE1-17A0-4A7D-8920-85930B7C3E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80D7CE1-17A0-4A7D-8920-85930B7C3E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80D7CE1-17A0-4A7D-8920-85930B7C3E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
