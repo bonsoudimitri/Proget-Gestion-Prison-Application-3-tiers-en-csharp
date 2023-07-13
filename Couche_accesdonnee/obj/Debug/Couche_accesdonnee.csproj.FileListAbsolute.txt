@@ -1,0 +1,20 @@
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_accesdonnee.exe.config
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.Properties.Resources.resources
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.csproj.GenerateResource.Cache
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_accesdonnee.exe
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_accesdonnee.pdb
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.exe
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.pdb
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.csprojResolveAssemblyReference.cache
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_Metier.exe
+E:\Projet C#\Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_Metier.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_accesdonnee.exe.config
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.exe
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_accesdonnee.exe
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_accesdonnee.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_Metier.exe
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\bin\Debug\Couche_Metier.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.csprojResolveAssemblyReference.cache
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.Properties.Resources.resources
+E:\Projet C#\Projet Gestion_Prison\Couche_accesdonnee\obj\Debug\Couche_accesdonnee.csproj.GenerateResource.Cache

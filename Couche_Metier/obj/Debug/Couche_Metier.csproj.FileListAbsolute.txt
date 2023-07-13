@@ -1,0 +1,16 @@
+E:\Projet C#\Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.csprojResolveAssemblyReference.cache
+E:\Projet C#\Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.Properties.Resources.resources
+E:\Projet C#\Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.csproj.GenerateResource.Cache
+E:\Projet C#\Gestion_Prison\Couche_Metier\bin\Debug\Couche_Metier.exe.config
+E:\Projet C#\Gestion_Prison\Couche_Metier\bin\Debug\Couche_Metier.exe
+E:\Projet C#\Gestion_Prison\Couche_Metier\bin\Debug\Couche_Metier.pdb
+E:\Projet C#\Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.exe
+E:\Projet C#\Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\bin\Debug\Couche_Metier.exe.config
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\bin\Debug\Couche_Metier.exe
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\bin\Debug\Couche_Metier.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.Properties.Resources.resources
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.csproj.GenerateResource.Cache
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.exe
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.pdb
+E:\Projet C#\Projet Gestion_Prison\Couche_Metier\obj\Debug\Couche_Metier.csprojResolveAssemblyReference.cache
