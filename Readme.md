@@ -1,4 +1,4 @@
-# Objectif Du Projet Se Projet 
+# Objectif Du Projet 
 Se projet est Realiser dans le but de pouvoir faciliter d'enregistrer ,modifier ,supprimer et Rechercher les ionformations stocker dans une base de 
 données en occurence celui d'unr Prison qui fait l'objet de se projet .il sera donc neccessaire de se connecter en entrant les infor,ations stocker 
 dans la table personnel pour se connecter a l'appplication et se deconnecter une le travail Terminer.
